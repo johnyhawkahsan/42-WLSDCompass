@@ -5,6 +5,7 @@
 
 package com.ahsan.a42_wlsdcompass;
 
+import android.app.Activity;
 import android.content.DialogInterface;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
